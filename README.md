@@ -1,2 +1,2 @@
 # webDevCv
-Web Dev Course CV site
+Web Dev CV site
